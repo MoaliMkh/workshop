@@ -1,0 +1,501 @@
+mohammadali@ArshiA:~$ git
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+mohammadali@ArshiA:~$ git
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+mohammadali@ArshiA:~$ git
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ git
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ mkdir gitworkshop
+mohammadali@ArshiA:~$ git init
+Initialized empty Git repository in /home/mohammadali/.git/
+mohammadali@ArshiA:~$ git remote add origin https://github.com/MoaliMkh/Mohammadali.git
+mohammadali@ArshiA:~$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.ICEauthority
+	.bash_history
+	.bash_logout
+	.bashrc
+	.cache/
+	.config/
+	.gnupg/
+	.local/
+	.mozilla/
+	.profile
+	.sudo_as_admin_successful
+	.swn
+	.swo
+	.swp
+	.viminfo
+	Desktop/
+	examples.desktop
+	ingredients.txt
+	snap/
+
+nothing added to commit but untracked files present (use "git add" to track)
+mohammadali@ArshiA:~$ touch 1.txt
+mohammadali@ArshiA:~$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.ICEauthority
+	.bash_history
+	.bash_logout
+	.bashrc
+	.cache/
+	.config/
+	.gnupg/
+	.local/
+	.mozilla/
+	.profile
+	.sudo_as_admin_successful
+	.swn
+	.swo
+	.swp
+	.viminfo
+	1.txt
+	Desktop/
+	examples.desktop
+	ingredients.txt
+	snap/
+
+nothing added to commit but untracked files present (use "git add" to track)
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ 
+mohammadali@ArshiA:~$ cd gitworkshop
+mohammadali@ArshiA:~/gitworkshop$ touch 1.txt
+mohammadali@ArshiA:~/gitworkshop$ git init
+Initialized empty Git repository in /home/mohammadali/gitworkshop/.git/
+mohammadali@ArshiA:~/gitworkshop$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	1.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+mohammadali@ArshiA:~/gitworkshop$ git add 1.txt
+mohammadali@ArshiA:~/gitworkshop$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   1.txt
+
+mohammadali@ArshiA:~/gitworkshop$ git commit -m 'form added.'
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'mohammadali@ArshiA.(none)')
+mohammadali@ArshiA:~/gitworkshop$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   1.txt
+
+mohammadali@ArshiA:~/gitworkshop$ git commit -m '1.txt added'
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'mohammadali@ArshiA.(none)')
+mohammadali@ArshiA:~/gitworkshop$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   1.txt
+
+mohammadali@ArshiA:~/gitworkshop$  
+mohammadali@ArshiA:~/gitworkshop$ git config  --global user.email "mohammadali1379@gmail.com"
+mohammadali@ArshiA:~/gitworkshop$ git config  --global user.name "Mohammadali"
+mohammadali@ArshiA:~/gitworkshop$ omit --global 
+
+Command 'omit' not found, did you mean:
+
+  command 'fmit' from deb fmit
+
+Try: sudo apt install <deb name>
+
+mohammadali@ArshiA:~/gitworkshop$ Omit --global 
+
+Command 'Omit' not found, did you mean:
+
+  command 'fmit' from deb fmit
+
+Try: sudo apt install <deb name>
+
+mohammadali@ArshiA:~/gitworkshop$ git add .
+mohammadali@ArshiA:~/gitworkshop$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   1.txt
+
+mohammadali@ArshiA:~/gitworkshop$ git commit -m "tmop"
+[master (root-commit) 4113dc1] tmop
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 1.txt
+mohammadali@ArshiA:~/gitworkshop$ 
+mohammadali@ArshiA:~/gitworkshop$ 
+mohammadali@ArshiA:~/gitworkshop$ 
+mohammadali@ArshiA:~/gitworkshop$ 
+mohammadali@ArshiA:~/gitworkshop$ 
+mohammadali@ArshiA:~/gitworkshop$ 
+mohammadali@ArshiA:~/gitworkshop$ 
+mohammadali@ArshiA:~/gitworkshop$ cd ..
+mohammadali@ArshiA:~$ cd gitworkshop
+mohammadali@ArshiA:~/gitworkshop$ nano 1.txt
+mohammadali@ArshiA:~/gitworkshop$ nano 1.
+mohammadali@ArshiA:~/gitworkshop$ nano 1.txt
+mohammadali@ArshiA:~/gitworkshop$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   1.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+mohammadali@ArshiA:~/gitworkshop$ git add 1.txt
+mohammadali@ArshiA:~/gitworkshop$ git commit -m "1.txt changed"
+[master 93c43af] 1.txt changed
+ 1 file changed, 2 insertions(+)
+mohammadali@ArshiA:~/gitworkshop$ git log
+commit 93c43af3f586de38796c2c7ec52d1ecfdf110ba7 (HEAD -> master)
+Author: Mohammadali <mohammadali1379@gmail.com>
+Date:   Mon Dec 23 17:45:48 2019 +0330
+
+    1.txt changed
+
+commit 4113dc146f535a4d1630d3d8ec2b66ba4d5ca73a
+Author: Mohammadali <mohammadali1379@gmail.com>
+Date:   Mon Dec 23 17:29:06 2019 +0330
+
+    tmop
+mohammadali@ArshiA:~/gitworkshop$ git checkout 93c43af3f586de38796c2c7ec52d1ecfdf110ba7
+Note: checking out '93c43af3f586de38796c2c7ec52d1ecfdf110ba7'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by performing another checkout.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -b with the checkout command again. Example:
+
+  git checkout -b <new-branch-name>
+
+HEAD is now at 93c43af 1.txt changed
+mohammadali@ArshiA:~/gitworkshop$ cat 1.txt
+hello world
+
+mohammadali@ArshiA:~/gitworkshop$ git push origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+mohammadali@ArshiA:~/gitworkshop$ git status
+HEAD detached at 93c43af
+nothing to commit, working tree clean
+mohammadali@ArshiA:~/gitworkshop$ git add *
+mohammadali@ArshiA:~/gitworkshop$ gti commit -m "tests
+> "
+
+Command 'gti' not found, did you mean:
+
+  command 'gt' from deb genometools
+  command 'gmi' from deb gmailieer
+  command 'gtv' from deb smpeg-gtv
+  command 'git' from deb git
+  command 'ti' from deb ticgit
+  command 'gli' from deb ruby-gli
+  command 'ghi' from deb ghi
+  command 'gtg' from deb gtg
+  command 'gri' from deb gri
+  command 'gsi' from deb gambc
+  command 'gt5' from deb gt5
+  command 'bti' from deb bti
+  command 'gtf' from deb xserver-xorg-core
+
+Try: sudo apt install <deb name>
+
+mohammadali@ArshiA:~/gitworkshop$ git commit -m "test"
+HEAD detached at 93c43af
+nothing to commit, working tree clean
+mohammadali@ArshiA:~/gitworkshop$ git push origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+mohammadali@ArshiA:~/gitworkshop$ git push prigin master
+fatal: 'prigin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+mohammadali@ArshiA:~/gitworkshop$ git push origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+mohammadali@ArshiA:~/gitworkshop$ git remote add origin https://github.com/MoaliMkh/Mohammadali.git
+mohammadali@ArshiA:~/gitworkshop$ git push origin master
+Username for 'https://github.com': MoaliMkh
+Password for 'https://MoaliMkh@github.com': 
+Counting objects: 6, done.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (6/6), 426 bytes | 426.00 KiB/s, done.
+Total 6 (delta 0), reused 0 (delta 0)
+To https://github.com/MoaliMkh/Mohammadali.git
+ * [new branch]      master -> master
+mohammadali@ArshiA:~/gitworkshop$ git tag -a v1 -m "phase 1 completed" 
+mohammadali@ArshiA:~/gitworkshop$ git tag -l
+v1
+mohammadali@ArshiA:~/gitworkshop$ git push origin master
+Username for 'https://github.com': MoaliMkh
+Password for 'https://MoaliMkh@github.com': 
+Everything up-to-date
+mohammadali@ArshiA:~/gitworkshop$ git push origin v1
+Username for 'https://github.com': MoaliMkh
+Password for 'https://MoaliMkh@github.com': 
+Counting objects: 1, done.
+Writing objects: 100% (1/1), 164 bytes | 164.00 KiB/s, done.
+Total 1 (delta 0), reused 0 (delta 0)
+To https://github.com/MoaliMkh/Mohammadali.git
+ * [new tag]         v1 -> v1
+
